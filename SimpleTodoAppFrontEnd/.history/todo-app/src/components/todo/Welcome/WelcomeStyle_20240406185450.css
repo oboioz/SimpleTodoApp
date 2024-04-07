@@ -1,0 +1,13 @@
+.WelcomeComponent {
+    background-color: #130f40;
+    background: linear-gradient(315deg, #130f40 0%, #000000 74%);
+    height: 100vh;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.WelcomeComponent h1 {
+    color: white;
+    font-size: 5rem;
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.logo {
+    font-family: 'Righteous', cursive;
+    color: #ffffff
+}
+
+.transparent-navbar {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    position: fixed; /* Change from absolute to fixed */
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    padding: 0;
+    margin: 0;
+}
+
+/* Add a margin to the body to push content down */
+body {
+    margin-top: 70px; /* Adjust as needed based on your navbar height */
+}

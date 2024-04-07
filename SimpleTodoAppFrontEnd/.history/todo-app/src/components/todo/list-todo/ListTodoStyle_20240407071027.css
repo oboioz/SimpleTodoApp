@@ -1,0 +1,12 @@
+.ListTodo {
+    background-color: #130f40;
+    background: linear-gradient(0deg, #130f40 0%, #000000 26%);
+    height: 100vh;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.table_custom {
+    --bs-table-bg: transparent !important;
+}
+

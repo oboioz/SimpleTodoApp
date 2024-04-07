@@ -1,0 +1,21 @@
+.Login {
+    height: 100vh;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+}
+
+.LoginForm {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    margin-top: -8vh;
+}
+
+img {
+    width: 100%;
+ }

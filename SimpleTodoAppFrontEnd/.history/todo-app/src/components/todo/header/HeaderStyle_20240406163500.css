@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.logo {
+    font-family: 'Righteous', cursive;
+    color: #ffffff
+}
+
+/* HeaderStyle.css */
+
+.navbar {
+    background-color: transparent;
+    border-bottom: none;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px; /* Adjust as needed */
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+/* Active link style */
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: bold;
+    color: white;
+}
+

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.logo {
+    font-family: 'Righteous', cursive;
+    color: #ffffff
+}
+
+/* HeaderStyle.css */
+
+.navbar {
+    border-bottom: none;
+    position: absolute;
+}
+
